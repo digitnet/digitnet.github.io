@@ -15,4 +15,4 @@ layout: home
 
 [The M4JPEG steganography tool.](/m4jpeg-project/)
 
-[Phil Sallee's MATLAB JPEG toolbox.](/phil-sallee-toolbox/)
+[Phil Sallee's MATLAB JPEG toolbox.](/jpeg-toolbox/)
