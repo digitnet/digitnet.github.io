@@ -3,16 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+<br />
+<br />
+W. Al Chamaa
+<br /><br />
+<div style="text-align: justify"> 
+Master of Science in Telecommunication. <br />
+Bachelor of science in electronics engineering.</div>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<br />
+Ebooks:
+<br />
+[Cryptography and Steganography in Digital Images.](https://www.grin.com/document/382491)
+<br />
+[MATLAB Implementation of the Steganographic Algorithm F5.](https://www.grin.com/document/464340)

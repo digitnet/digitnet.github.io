@@ -10,8 +10,8 @@ permalink: /f5-algorithm/
 <br />
 #### Related Downloads:
 
-[Westfeld's Paper / "F5-A Steganographic Algorithm : High Capacity Despite Better Steganalysis".]({{ site.baseurl }}\assets\pdf\f5-a-steganographic-algorithm-high-capacity-despite-better-steganalysis.pdf)
-
-[F5 Matlab Code Repository / GitHub.](https://github.com/digitnet/f5)
-
-[How The Code Works / GRIN Academic Publishing.](https://www.grin.com/document/464340)
+[1- Westfeld's Paper / "F5-A Steganographic Algorithm : High Capacity Despite Better Steganalysis".]({{ site.baseurl }}\assets\pdf\f5-a-steganographic-algorithm-high-capacity-despite-better-steganalysis.pdf)<br />
+[2- F5 Matlab Code Repository / GitHub.](https://github.com/digitnet/f5)
+<br />
+[3- How The Code Works / GRIN Academic Publishing.](https://www.grin.com/document/464340)
+<br />
