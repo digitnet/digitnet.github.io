@@ -13,11 +13,11 @@ permalink: /m4jpeg-project/
 <img src="{{ site.baseurl }}\assets\images\main-m4jpeg-gui.png" width="610"/>
 <br />
 <br />
-#### Hiding Section GUI:
+#### Hiding GUI:
 <img src="{{ site.baseurl }}\assets\images\hiding-m4jpeg-gui.png" width="610"/>
 <br />
 <br />
-#### Extracting Section GUI:
+#### Extracting GUI:
 <img src="{{ site.baseurl }}\assets\images\extracting-m4jpeg-gui.png" width="610"/>
 
 
