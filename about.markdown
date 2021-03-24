@@ -7,7 +7,10 @@ permalink: /about/
 <br />
 W. Al Chamaa
 <br /><br />
-<div style="text-align: justify"> 
+<div style="text-align: justify">
+Instructor at University of Kalamoon.<br />
+Former ECE Engineer at CERS.<br />
+<br />
 Master of Science in Telecommunication. <br />
 Bachelor of science in electronics engineering.</div>
 
