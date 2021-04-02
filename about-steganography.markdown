@@ -8,6 +8,6 @@ permalink: /steganography/
 <div style="text-align: justify"> The techniques of steganography have been developed in the field of digital objects such as JPEG images, where we can make the JPEG image a container for a secret message by embedding the message Bits within it. The JPEG image will represent a hidden communication channel, where no one knows what it contains except the sender and intended receiver. </div>
 <br />
 Matlab tools and code related to JPEG-based steganography:<br />
-[The F5 algorithm MATLAB code.]({{ site.baseurl }}\f5-algorithm\)<br />
-[The M4JPEG steganography tool.](/m4jpeg-project/)<br />
-[Phil Sallee's MATLAB JPEG toolbox.](/jpeg-toolbox/)<br />
+[The F5 algorithm MATLAB code.]({{ site.baseurl }}/f5-algorithm/)<br />
+[The M4JPEG steganography tool.]({{ site.baseurl }}/m4jpeg-tool/)<br />
+[Phil Sallee's MATLAB JPEG toolbox.]({{ site.baseurl }}/jpeg-toolbox/)<br />
