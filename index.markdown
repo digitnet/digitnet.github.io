@@ -4,17 +4,14 @@
 
 layout: home
 ---
+<br />
+<div style="text-align: justify"> Steganography is a data hiding technique that has been used in the applications of information protection. It transmits a secret message by hiding it into a cover object to create a hidden way of communication. Steganography has the same goal as cryptography since they aim to protect sensitive information. But they differ in the way of working; Cryptography converts the plain message into an unreadable encrypted message where the presence of the cryptography is not concealed, while steganography smuggles the message by embedding it into an innocent-looking object and thus creating an invisible communication channel. </div>
+<br />
+<div style="text-align: justify"> The techniques of steganography have been developed in the field of digital objects such as JPEG images, where we can make the JPEG image a container for a secret message by embedding the message Bits within it. The JPEG image will represent a hidden communication channel, where no one knows what it contains except the sender and intended receiver. </div>
+<br />
+Matlab tools and code related to JPEG-based steganography:<br />
+[The F5 algorithm MATLAB code.]({{ site.baseurl }}/f5-algorithm/)<br />
+[The M4JPEG steganography tool.]({{ site.baseurl }}/m4jpeg-tool/)<br />
+[Phil Sallee's MATLAB JPEG toolbox.]({{ site.baseurl }}/jpeg-toolbox/)<br />
 
-<br /><br /><br />
-W. Al Chamaa<br /><br />
-Instructor at [University of Kalamoon.](http://www.uok.edu.sy/)<br />
-Former ECE Engineer at CERS.<br /><br />
-Education:<br />
-Master of Science in Telecommunication. <br />
-Bachelor of science in electronics engineering.<br /><br />
-Ebooks:<br />
-[Cryptography and Steganography in Digital Images.](https://www.grin.com/document/382491)<br />
-[MATLAB Implementation of the Steganographic Algorithm F5.](https://www.grin.com/document/464340)<br /><br />
-GitHub Repositories:<br />
-[A JPEG-Based Steganography Tool.](https://github.com/digitnet/m4jpeg)<br />
-[The Steganographic Algorithm F5.](https://github.com/digitnet/f5)<br />
+Author: [W. Al Chamaa]({{ site.baseurl }}/about/)<br />
