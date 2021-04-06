@@ -12,6 +12,6 @@ layout: home
 Matlab tools and code related to JPEG-based steganography:<br />
 [The F5 algorithm MATLAB code.]({{ site.baseurl }}/f5-algorithm/)<br />
 [The M4JPEG steganography tool.]({{ site.baseurl }}/m4jpeg-tool/)<br />
-[Phil Sallee's MATLAB JPEG toolbox.]({{ site.baseurl }}/jpeg-toolbox/)<br />
+[Phil Sallee's MATLAB JPEG toolbox.]({{ site.baseurl }}/jpeg-toolbox/)<br /><br />
 
 Author: [W. Al Chamaa]({{ site.baseurl }}/about/)<br />
