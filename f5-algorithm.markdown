@@ -8,7 +8,7 @@ permalink: /f5-algorithm/
 <div style="text-align: justify"> The F5 algorithm was proposed by Westfeld. It is based on the idea of the matrix encoding (dmax, n, k) with dmax=1, where its goal is to minimize the number of changes made to the qDCT coefficients. The F5 algorithm takes (n) qDCT coefficients and hashes them to (k) Bits using a Xor-based hash function. When the sender needs a modification to embed the secret message, only one coefficient is changed since the resulting (n) qDCT coefficients should not have a hamming distance of more than dmax=1 from the original (n) qDCT coefficients. The (k) and (n) are calculated based on the original image capacity as well as the message length. </div>
 <br />
 #### F5 Algorithm Matlab Code:
-<div style="text-align: justify"> The Matlab code of the F5 algorithm has been published on Github. Also, there is an Ebook published on GRIN explains how this code works: "MATLAB Implementation of the Steganographic Algorithm F5". It is a paid Ebook. Thus, the royalty would be considered as a donation for the published code. Students can email the author asking for a free copy. </div>
+<div style="text-align: justify"> The Matlab code of the F5 algorithm has been published on Github. Also, there is an Ebook published on GRIN explains how this code works: "MATLAB Implementation of the Steganographic Algorithm F5".</div>
 <br />
 Download links:
 <br />
