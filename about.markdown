@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-W. Al Chamaa<br /><br />
+Wassim Al Chamaa<br /><br />
 Instructor at [University of Kalamoon.](http://www.uok.edu.sy/)<br />
 Former ECE Engineer at CERS.<br /><br />
 Education:<br />
