@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Wassim Al Chamaa<br /><br />
 Instructor at [University of Kalamoon.](http://www.uok.edu.sy/)<br />
-Former ECE Engineer at CERS.<br /><br />
+Former EC Engineer at CERS.<br /><br />
 Education:<br />
 Master of Science in Telecommunication. <br />
 Bachelor of science in electronics engineering.<br /><br />
